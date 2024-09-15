@@ -1,0 +1,17 @@
+body{
+    background-color:#fff;
+}
+.product_list{
+    margin: auto;
+    width: 85%;
+
+}
+.row{
+   display: flex;
+   flex-wrap: wrap ; 
+}
+.product_list h1{
+    text-align: center;
+    font-family: cursive;
+    color: rgb(95, 179, 40);
+}
